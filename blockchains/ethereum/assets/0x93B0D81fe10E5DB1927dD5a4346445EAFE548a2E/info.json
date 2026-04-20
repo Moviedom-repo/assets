@@ -1,0 +1,19 @@
+{
+  "name": "MDOM Token",
+  "type": "ERC20",
+  "symbol": "MDOM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x93B0D81fe10E5DB1927dD5a4346445EAFE548a2E",
+  "description": "MovieDOM (MDOM) is a blockchain-based Real World Asset (RWA) ecosystem revolutionizing movies, music, events, and multiplexes. MDOM powers a global entertainment economy where fans, creators, and investors unite to fund, stream, and own the future of film and music.",
+  "website": "https://moviedom.com/",
+  "links": [
+    { "name": "twitter",   "url": "https://x.com/moviedom_io/" },
+    { "name": "telegram",  "url": "https://t.me/mdomofficialchannel" },
+    { "name": "discord",   "url": "http://discord.com/invite/BC5ZfFeyjd" },
+    { "name": "youtube",   "url": "https://www.youtube.com/@mdomtoken" },
+    { "name": "facebook",  "url": "https://www.facebook.com/MdomToken" },
+    { "name": "docs",      "url": "https://moviedom-token.gitbook.io/moviedom-token" }
+  ],
+  "tags": ["rwa", "entertainment", "staking", "governance"]
+}
